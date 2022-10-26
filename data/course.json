@@ -9,7 +9,7 @@
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 488,
     "title": "Big Data",
-    "thumbnail_url": "https://png.pngtree.com/illustration/20190226/ourmid/pngtree-2-5d-big-data-cloud-computing-data-image_11597.jpg",
+    "thumbnail_url": "https://png.pngtree.com/png-clipart/20190115/ourmid/pngtree-big-data-data-illustration-web-page-ui-png-image_344519.jpg",
     "image_url": "https://png.pngtree.com/png-clipart/20190115/ourmid/pngtree-big-data-data-illustration-web-page-ui-png-image_344519.jpg",
     "details": "Big Data is a collection of data that is huge in volume, yet growing exponentially with time. It is a data with so large size and complexity that none of traditional data management tools can store it or process it efficiently. Big data is also a data but with huge size.Following are the types of Big Data: 1.Structured 2.Unstructured 3.Semi-structured"
   },
@@ -23,7 +23,7 @@
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 488,
     "title": "SEO",
-    "thumbnail_url": "https://www.nevercooksober.com/wp-content/uploads/2022/03/What-Is-SEO.jpg",
+    "thumbnail_url": "https://thefridgeagency.com/wp-content/uploads/sites/3/2017/06/5_14_SEO_HightLevelPerspective_1000px.jpg",
     "image_url": "https://thefridgeagency.com/wp-content/uploads/sites/3/2017/06/5_14_SEO_HightLevelPerspective_1000px.jpg",
     "details": "SEO marketing is a subset of digital marketing that involves the optimization of websites and web pages for major search engines like Google. As these search engines became a predominant way of finding just about anything, various practices have emerged to help organizations improve the visibility of their digital assets.The term “search engine optimization (SEO)” refers to a blend of internal and external tactics. The major search engines each have their own formula or “secret sauce” for ranking pages within search results. Referred to technically as algorithms, these formulas are closely guarded practices that major search engines protect as trade secrets.Through trial and error over time, marketing SEO experts effectively reverse engineer aspects of these algorithms to isolate best practices for search engine marketing. By employing tried and true SEO tactics, organizations can improve their visibility and ranking within the major search engines."
   },
@@ -38,7 +38,7 @@
     "rating": { "number": 4.8, "badge": "Excellent" },
     "total_view": 400,
     "title": "Ethical Hacking",
-    "thumbnail_url": "https://www.techslang.com/wp-content/uploads/2021/05/Untitled-1-2-scaled-e1622472165118.jpg",
+    "thumbnail_url": "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2020/02/14/Pictures/_7abc7588-4f2b-11ea-be2e-10ce700f7947.jpg",
     "image_url": "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2020/02/14/Pictures/_7abc7588-4f2b-11ea-be2e-10ce700f7947.jpg",
     "details": "Ethical hacking is an authorized practice of detecting vulnerabilities in an application, system, or organization’s infrastructure and bypassing system security to identify potential data breaches and threats in a network. Ethical hackers aim to investigate the system or network for weak points that malicious hackers can exploit or destroy. They can improve the security footprint to withstand attacks better or divert them.The company that owns the system or network allows Cyber Security engineers to perform such activities in order to test the system’s defenses. Thus, unlike malicious hacking, this process is planned, approved, and more importantly, legal.Ethical hackers aim to investigate the system or network for weak points that malicious hackers can exploit or destroy. They collect and analyze the information to figure out ways to strengthen the security of the system/network/applications. By doing so,  they can improve the security footprint so that it can better withstand attacks or divert them.Ethical hackers are hired by organizations to look into the vulnerabilities of their systems and networks and develop solutions to prevent data breaches. Consider it a high-tech permutation of the old saying “It takes a thief to catch a thief.”"
   },
@@ -52,9 +52,9 @@
     "rating": { "number": 4.3, "badge": "Excellent" },
     "total_view": 400,
     "title": "Blockchain",
-    "thumbnail_url": "",
-    "image_url": "",
-    "details": ""
+    "thumbnail_url": "https://cdn2.hubspot.net/hubfs/6062099/blockchain%20technology.png",
+    "image_url": "https://cdn2.hubspot.net/hubfs/6062099/blockchain%20technology.png",
+    "details": "Blockchain is a shared, immutable ledger that facilitates the process of recording transactions and tracking assets in a business network. An asset can be tangible (a house, car, cash, land) or intangible (intellectual property, patents, copyrights, branding). Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and cutting costs for all involved."
   },
 
   {
@@ -67,9 +67,9 @@
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 980,
     "title": "Python",
-    "thumbnail_url": "",
-    "image_url": "",
-    "details": ""
+    "thumbnail_url": "https://ourcodeworld.com/public-media/articles/articleocw-5c6632dd1fe9f.jpg",
+    "image_url": "https://ourcodeworld.com/public-media/articles/articleocw-5c6632dd1fe9f.jpg",
+    "details": "Python is a popular general-purpose programming language that can be used for a wide variety of applications. It includes high-level data structures, dynamic typing, dynamic binding, and many more features that make it as useful for complex application development as it is for scripting or 'glue code' that connects components together. It can also be extended to make system calls to almost all operating systems and to run code written in C or C++. Due to its ubiquity and ability to run on nearly every system architecture, Python is a universal language found in a variety of different applications."
   },
   {
     "_id": "11468ed61aee84de492a8b04158a22f0",
@@ -81,8 +81,8 @@
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 980,
     "title": "Data Sciences",
-    "thumbnail_url": "",
-    "image_url": "",
-    "details": ""
+    "thumbnail_url": "https://d5zukw8vdn04n.cloudfront.net/wp-content/uploads/2019/12/shutterstock_606583169.jpg",
+    "image_url": "https://d5zukw8vdn04n.cloudfront.net/wp-content/uploads/2019/12/shutterstock_606583169.jpg",
+    "details": "Data science is the domain of study that deals with vast volumes of data using modern tools and techniques to find unseen patterns, derive meaningful information, and make business decisions. Data science uses complex machine learning algorithms to build predictive models.The data used for analysis can come from many different sources and presented in various formats.Now that you know what data science is, let’s see why data science is essential to today’s IT landscape."
   }
 ]
