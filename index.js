@@ -41,4 +41,6 @@ app.get('/singleCourse/:id', (req, res) => {
 
 app.listen(port, () => {
   console.log('Encode Server Running on port', port)
-})
+});
+
+module.exports = app;
